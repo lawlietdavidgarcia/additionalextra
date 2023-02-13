@@ -1,6 +1,4 @@
-# additionalextra
-
-## Licencia MIT
+# Licencia MIT
 
 Elegi la *licencia MIT* ya que daria la oportunidad a otros desarrolladores de usar mi codigo, modificarlo y distribuirlo hacia otros desarrolladores. 
 Tambien cabe destacar que la licensia MIT es permisiva y tiene pocas restricciones, dando a la comunidad una oportunidad de ver y aprender de mi codigo, esto tambine dando 
